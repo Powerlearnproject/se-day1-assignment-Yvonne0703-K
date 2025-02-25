@@ -1,11 +1,11 @@
 
-# SE_Day1
+SE_Day1
 Software Engineering Day1 Assignment
 
-#Part 1: Introduction to Software Engineering
+Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-software engineering is a field of study that focuses on the creation, use, and upkeep of software systems by applying engineering concepts, methods, and procedures. It includes requirements analysis, design, implementation, testing, deployment, and maintenance, among other phases of the software development lifecycle. 
+software engineering can be defined as a field of study that focuses on the creation, use, and upkeep of software systems by applying engineering concepts, methods, and procedures. It includes requirements analysis, design, implementation, testing, deployment, and maintenance, among other phases of the software development lifecycle. 
 Importance
 It uses a methodical and structured approach to software development with the declared objective of reduced budget, time, and quality efficiency.
 
