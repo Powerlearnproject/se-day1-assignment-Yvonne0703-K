@@ -1,16 +1,17 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18373408&assignment_repo_type=AssignmentRepo)
+
 # SE_Day1
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-Tsoftware engineering is a field of study that focuses on the creation, use, and upkeep of software systems by applying engineering concepts, methods, and procedures. It includes requirements analysis, design, implementation, testing, deployment, and maintenance, among other phases of the software development lifecycle. It uses a methodical and structured approach to software development with the declared objective of increasing budget, time, and quality efficiency.
-
-
+software engineering is a field of study that focuses on the creation, use, and upkeep of software systems by applying engineering concepts, methods, and procedures. It includes requirements analysis, design, implementation, testing, deployment, and maintenance, among other phases of the software development lifecycle. 
+Importance
+It uses a methodical and structured approach to software development with the declared objective of reduced budget, time, and quality efficiency.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-1968: Software Engineering's Inception  The NATO Software Engineering Conference in Garmisch, Germany, in 1968 is where the term software engineering was used fot the first time. This was a major turning point in the profession since it acknowledged that in order to solve the difficulties of creating intricate and dependable software systems, engineering principles needed to be applied to software development.
+
+The evolution of software engineering dates back in the year 1968 which the Inception during  NATO Software Engineering Conference in Garmisch, Germany, in this same year is where the term software engineering was used fot the first time. This was a major turning point in the profession since it acknowledged that in order to solve the difficulties of creating intricate and dependable software systems, engineering principles needed to be applied to software development.
 Software engineering has kept developing and maturing throughout the decades. Software design and development changed in the 1980s with the advent of object-oriented programming. Agile software development approaches, which placed an emphasis on adaptability and responsiveness to change, came into being in the 1990s. Today, software engineering is a reputable field with its own tools, techniques, and best practices. It is regarded as an engineering discipline and operates according to the same rules as other engineering specialties.
 
 List and briefly explain the phases of the Software Development Life Cycle.
@@ -85,14 +86,14 @@ They focus on the application's business needs. They just check the output of an
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-Prompt engineering is the practice of guiding generative artificial intelligence (AI) solutions to produce the desired results.
+Prompt engineering  can be defined as the practice of guiding generative artificial intelligence (AI) solutions to produce the desired results.
 They assist the AI in refining the output and presenting it concisely in the appropriate format.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 Vague Prompt:
-- "Develop a new app for our company
+Develop a new app for our company
 
 Improved Prompt
-- "Design and develop a mobile Customer relationship Management app for our company's sales team that will help in tracking customer interactions, management of  leads, as wellas  generating real-time reports." 
+Design and develop a mobile Customer relationship Management app for our company's sales team that will help in tracking customer interactions, management of  leads, as wellas  generating real-time reports.
 
